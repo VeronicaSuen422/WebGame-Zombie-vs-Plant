@@ -1,17 +1,5 @@
-# COMP4021_Project_Group9
-
-# HKUST Spring 2022 COMP4021 Project Group 9 README
-
-## **_Project: Plants vs Zombies_**
-
-**Students participated:**
-- LIU Man Hin
-- SUEN Ming Kwong
-- SUEN Pui Ka
-
-
 ## How to play the game
-1. Download the [Project folder](https://github.com/kyddaniel/COMP4021_Project_Group9)
+1. Download the Project folder
 
 2. Open Window Powershell
 
